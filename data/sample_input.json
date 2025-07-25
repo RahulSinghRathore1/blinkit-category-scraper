@@ -1,0 +1,26 @@
+[
+    {
+        "latitude": 28.3897979,
+        "longitude": 77.27313339999999,
+        "l0_cat": 14,
+        "l1_cat": 923,
+        "location_name": "Gurgaon",
+        "category_name": "Dairy & Breakfast - Paneer & Tofu"
+    },
+    {
+        "latitude": 28.6139,
+        "longitude": 77.2090,
+        "l0_cat": 1,
+        "l1_cat": 2,
+        "location_name": "Delhi",
+        "category_name": "Fruits & Vegetables - Fresh Fruits"
+    },
+    {
+        "latitude": 19.0760,
+        "longitude": 72.8777,
+        "l0_cat": 5,
+        "l1_cat": 15,
+        "location_name": "Mumbai",
+        "category_name": "Snacks & Munchies - Nachos"
+    }
+]
