@@ -25,4 +25,7 @@ It collects prices, inventory, units, brand, availability, and more using catego
    npm install
  Note: BlinkIt may return 403 Forbidden if authentication headers (auth_key, device_id, session_uuid) expire.
 This script worked during testing and produced valid output (output.csv with 523 products).
+>  **Note:** BlinkIt may return `403 Forbidden` if authentication headers (`auth_key`, `device_id`, `session_uuid`) expire.  
+> This script worked during testing and produced valid output (`output.csv` with 523 products).
+
 
